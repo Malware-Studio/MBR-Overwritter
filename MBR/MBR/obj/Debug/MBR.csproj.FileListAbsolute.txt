@@ -1,0 +1,9 @@
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\bin\Debug\MBR.exe.config
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\bin\Debug\MBR.exe
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\bin\Debug\MBR.pdb
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\obj\Debug\MBR.csproj.AssemblyReference.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\obj\Debug\MBR.Properties.Resources.resources
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\obj\Debug\MBR.csproj.GenerateResource.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\obj\Debug\MBR.csproj.CoreCompileInputs.cache
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\obj\Debug\MBR.exe
+C:\Users\黃氏家族\Desktop\我的資料夾\MBR\MBR\obj\Debug\MBR.pdb
